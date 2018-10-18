@@ -3,4 +3,4 @@ const b = [1,2]
 b.map(v => {
   console.log(v)
 })
-:aler(a)
+alert(a)
